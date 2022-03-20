@@ -1,0 +1,3 @@
+([('main2',
+   '/Users/felipedomingues/Documents/Speech Rec/dist/main2',
+   'EXECUTABLE')],)
